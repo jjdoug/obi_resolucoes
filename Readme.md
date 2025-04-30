@@ -1,0 +1,1 @@
+Minhas resoluções das questões da OBI (Olimpíadas Brasileiras de Informática), a qual eu participei como competidor na edição 2024, que ocorreu entre os dias 13 de junho e 28 de setembro.
